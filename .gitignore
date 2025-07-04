@@ -10,3 +10,4 @@ op/config
 raycast/extensions/
 gitleaks-report.json
 .bfg-replacements.txt
+.DS_Store
