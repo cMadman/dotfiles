@@ -24,8 +24,9 @@ A curated setup for macOS featuring Aerospace, Sketchybar, Ghostty, and Zsh — 
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/rubylaser/dotfiles.git ~/dotfiles
-cd ~/dotfiles
+git clone https://github.com/rubylaser/dotfiles.git ~/.config
+cd ~/.config
+ln -s ~/.config/zshrc ~/.zshrc
 ```
 
 ### 3. Install all apps with the Brewfile
@@ -43,11 +44,8 @@ chsh -s /bin/zsh
 ### 5. Link the config files
 
 ```bash
-ln -s ~/dotfiles/.zshrc ~/.zshrc
-ln -s ~/dotfiles/Brewfile ~/Brewfile
+ln -s ~/.config/Brewfile ~/Brewfile
 ```
-
-You can also symlink the full .config folder if this repo is ~/.config.
 
 ### 1Password Setup
 Make sure you’ve installed 1Password and are signed in:
