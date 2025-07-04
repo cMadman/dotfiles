@@ -13,7 +13,7 @@ A curated setup for macOS featuring Aerospace, Sketchybar, Ghostty, and Zsh — 
 
 ---
 
-## 🧰 Installation
+## Installation
 
 ### 1. Install Homebrew
 
