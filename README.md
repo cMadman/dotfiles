@@ -1,4 +1,4 @@
-# Zack Reed’s Dotfiles
+# Dotfiles
 
 A curated setup for macOS featuring Aerospace, Sketchybar, Ghostty, and Zsh — all version-controlled and 1Password-secure.
 
@@ -24,7 +24,7 @@ A curated setup for macOS featuring Aerospace, Sketchybar, Ghostty, and Zsh — 
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/rubylaser/dotfiles.git ~/.config
+git clone https://github.com/cMadman/dotfiles.git ~/.config
 cd ~/.config
 ln -s ~/.config/zshrc ~/.zshrc
 ```
