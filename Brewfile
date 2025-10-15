@@ -89,56 +89,24 @@ brew "felixkratz/formulae/sketchybar"
 brew "jesseduffield/lazygit/lazygit"
 cask "1password-cli"
 cask "aerospace"
-cask "beekeeper-studio"
-cask "deskpad"
-cask "docker-desktop"
-cask "eqmac"
 cask "font-hack-nerd-font"
 cask "font-meslo-lg-nerd-font"
 cask "font-sf-pro"
 cask "font-sketchybar-app-font"
 cask "font-symbols-only-nerd-font"
+cask "jordanbaird-ice"
 cask "ghostty"
 cask "hiddenbar"
-cask "iterm2"
 cask "kopiaui"
 cask "lookaway"
-cask "qlmarkdown"
-cask "sequel-ace"
 cask "sf-symbols"
 cask "stats"
 cask "warp"
 cask "wezterm"
 mas "1Password for Safari", id: 1569813296
-mas "AdGuard for Safari", id: 1440147259
-mas "Blackmagic Disk Speed Test", id: 425264550
-mas "Folder Preview", id: 6698876601
-mas "HEIC Converter", id: 1294126402
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kindle", id: 302584613
-mas "Klack", id: 6446206067
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Pure Paste", id: 1611378436
 mas "Tailscale", id: 1475387142
-mas "The Unarchiver", id: 425424353
-mas "Usage", id: 1561788435
-mas "Vinegar", id: 1591303229
-mas "Webp Converter", id: 1527716894
-mas "WireGuard", id: 1451685025
-mas "Yubico Authenticator", id: 1497506650
-vscode "continue.continue"
-vscode "davidanson.vscode-markdownlint"
-vscode "golang.go"
-vscode "ms-azuretools.vscode-containers"
-vscode "ms-azuretools.vscode-docker"
-vscode "ms-python.debugpy"
-vscode "ms-python.python"
-vscode "ms-python.vscode-pylance"
-vscode "ms-vscode-remote.remote-containers"
-vscode "ms-vscode-remote.remote-ssh"
-vscode "ms-vscode-remote.remote-ssh-edit"
-vscode "ms-vscode.remote-explorer"
-vscode "saoudrizwan.claude-dev"
-vscode "yzane.markdown-pdf"
