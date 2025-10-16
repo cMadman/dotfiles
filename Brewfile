@@ -89,6 +89,12 @@ brew "felixkratz/formulae/sketchybar"
 brew "jesseduffield/lazygit/lazygit"
 cask "1password-cli"
 cask "aerospace"
+cask "keepingyouawake"
+cask "ungoogled-chromium"
+cask "obsidian"
+cask "acorn"
+cask "little-snitch"
+cask "nova"
 cask "font-hack-nerd-font"
 cask "font-meslo-lg-nerd-font"
 cask "font-sf-pro"
@@ -103,6 +109,12 @@ cask "sf-symbols"
 cask "stats"
 cask "warp"
 cask "wezterm"
+cask "itsycal"
+cask "transmit"
+cask "hey-desktop"
+cask "raindropio"
+cask "istat-menus@6"
+cask "whimsical"
 mas "1Password for Safari", id: 1569813296
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
@@ -110,3 +122,9 @@ mas "Kindle", id: 302584613
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Tailscale", id: 1475387142
+mas "Pastebot", id: 1179623856
+mas "SwitchGlass", id: 1498546559
+mas "Slack", id: 803453959
+mas "Smart Countdown Timer", id: 1410709951
+mas "NepTunes for iTunes & Spotify", id: 1006739057
+mas "WhatsApp Messenger", id: 310633997
