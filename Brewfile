@@ -1,8 +1,4 @@
 tap "felixkratz/formulae"
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
-tap "homebrew/services"
 tap "jesseduffield/lazygit"
 tap "nikitabobko/tap"
 tap "zen-browser/browser", "https://github.com/zen-browser/desktop.git"
