@@ -1,18 +1,5 @@
 # Dotfiles
 
-A curated setup for macOS featuring Aerospace, Sketchybar, Ghostty, and Zsh — all version-controlled and 1Password-secure.
-
-## What's Included
-
-- [x] macOS tiling via **Aerospace**
-- [x] Custom status bar via **Sketchybar**
-- [x] Terminal: **Ghostty**
-- [x] Secure SSH/Git signing via **1Password CLI**
-- [x] Zsh with autosuggestions, syntax highlighting, and aliases
-- [x] Brewfile to install everything in one command
-
----
-
 ## Installation
 
 ### 1. Install Homebrew
