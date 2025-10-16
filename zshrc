@@ -8,10 +8,10 @@ export PATH="$HOME/.local/bin:$PATH"
 # ZSH-Autosuggestions
 # plugins=(git zsh-autosuggestions zsh-syntax-highlighting web-search)
 # Zsh Autosuggestions
-source ~/.zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $HOMEBREW_PREFIX/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Zsh Syntax Highlighting
-source ~/.zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOMEBREW_PREFIX/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 
 # ---- FZF -----
