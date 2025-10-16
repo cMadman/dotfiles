@@ -19,7 +19,6 @@ brew "gitleaks"
 brew "btop"
 brew "lazydocker"
 brew "lazygit"
-brew "zen"
 brew "mas"
 brew "yt-dlp"
 brew "mpv"
@@ -82,6 +81,7 @@ cask "whimsical"
 cask "logi-options+"
 cask "font-caskaydia-mono-nerd-font"
 cask "visual-studio-code"
+cask "zen"
 mas "1Password for Safari", id: 1569813296
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
