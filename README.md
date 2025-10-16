@@ -34,6 +34,12 @@ chsh -s /bin/zsh
 ln -s ~/.config/Brewfile ~/Brewfile
 ```
 
+### 6. Install fzf-git.sh
+
+```bash
+git clone https://github.com/junegunn/fzf-git.sh.git ~/fzf-git.sh
+```
+
 ### Safety & Hygiene
 Secrets are scrubbed using gitleaks.
 
