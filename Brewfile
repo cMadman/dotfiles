@@ -83,6 +83,7 @@ cask "font-caskaydia-mono-nerd-font"
 cask "visual-studio-code"
 cask "zen"
 cask "karabiner-elements"
+cask "notion"
 mas "1Password for Safari", id: 1569813296
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
