@@ -109,9 +109,8 @@ outer.left = 5
 # '''
 
 # App shortcuts
-alt-b = 'exec-and-forget open -a /Applications/Brave\ Browser.app'
+alt-b = 'exec-and-forget open -a /Applications/Zen.app'
 alt-t = 'exec-and-forget open -a /Applications/Ghostty.app'
-alt-p = 'exec-and-forget open -a /Applications/Adobe\ Premiere\ Pro\ 2024/Adobe\ Premiere\ Pro\ 2024.app/'
 alt-w = 'exec-and-forget open -a /Applications/Obsidian.app'
 alt-shift-r = ['exec-and-forget /opt/homebrew/bin/sketchybar --reload']
 
@@ -185,45 +184,9 @@ alt-shift-k = ['join-with up', 'mode main']
 alt-shift-l = ['join-with right', 'mode main']
 
 # Default space
-[[on-window-detected]]
-if.app-id ='com.brave.Browser'
-run = ['move-node-to-workspace 1']
-
-[[on-window-detected]]
-if.app-id ='org.chromium.Thorium'
-run = ['move-node-to-workspace 1']
-
-[[on-window-detected]]
-if.app-id ='com.microsoft.Outlook'
-run = ['move-node-to-workspace 2']
-
-[[on-window-detected]]
-if.app-id ='com.microsoft.teams2'
-run = ['move-node-to-workspace 3']
-
-[[on-window-detected]]
-if.app-id ='com.microsoft.Word'
-run = ['move-node-to-workspace 4']
-
-[[on-window-detected]]
-if.app-id ='com.microsoft.Powerpoint'
-run = ['move-node-to-workspace 4']
-
-[[on-window-detected]]
-if.app-id ='com.microsoft.Excel'
-run = ['move-node-to-workspace 4']
-
-[[on-window-detected]]
-if.app-id ='com.mitchellh.ghostty'
-run = ['move-node-to-workspace 5']
-
-[[on-window-detected]]
-if.app-id ='com.apple.MobileSMS'
-run = ['move-node-to-workspace 6']
-
-[[on-window-detected]]
-if.app-id ='tv.plex.plexamp'
-run = ['move-node-to-workspace 7']
+# [[on-window-detected]]
+# if.app-id ='com.brave.Browser'
+# run = ['move-node-to-workspace 1']
 
 # force certain workspaces to certain monitors
 [workspace-to-monitor-force-assignment]
