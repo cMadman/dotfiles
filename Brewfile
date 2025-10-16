@@ -109,6 +109,7 @@ cask "hey-desktop"
 cask "raindropio"
 cask "istat-menus@6"
 cask "whimsical"
+cask "logi-options+"
 mas "1Password for Safari", id: 1569813296
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
